@@ -3,3 +3,5 @@
 3.Save
 4.Close
 5.Drag
+6.Drop
+7.close
