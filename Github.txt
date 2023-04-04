@@ -1,0 +1,4 @@
+1.Open
+2.Choose
+3.Save
+4.Close
