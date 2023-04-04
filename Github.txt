@@ -2,3 +2,4 @@
 2.Choose
 3.Save
 4.Close
+5.Drag
